@@ -1,0 +1,51 @@
+{
+  "name": "milky",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-amplify/cli": "^12.10.1",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/inter": "^5.0.16",
+    "@mui/joy": "^5.0.0-beta.23",
+    "@mui/material": "^5.15.5",
+    "@prisma/client": "^5.8.1",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@types/react-modal": "^3.16.3",
+    "axios": "^1.6.5",
+    "eslint-config-prettier": "^9.1.0",
+    "mongodb": "^6.3.0",
+    "next": "^14.0.4",
+    "next-connect": "^1.0.0",
+    "next-intl": "^3.5.0",
+    "prettier": "^3.2.2",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "prisma": "^5.8.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-modal": "^3.16.1",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.2",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

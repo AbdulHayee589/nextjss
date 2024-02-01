@@ -1,0 +1,33 @@
+{
+    "Index":{
+        "title":"Hello World",
+        "home":"Home",
+        "Teamwork":"Teamwork",
+        "Calender":"Calender",
+        "Tasks":"Tasks",
+        "Tickets":"Tickets",
+        "Chat":"Chat",
+        "Company":"Company",
+        "Team":"Team",
+        "Customer":"Customer",
+        "Partners":"Partners",
+        "Stock":"Stock",
+        "Inventory":"Inventory",
+        "Manufacturing":"Manufacturing",
+        "Commerce":"Commerce",
+        "Buying":"Buying",
+        "Selling":"Selling",
+        "Renting":"Renting",
+        "Finance":"Finance",
+        "Invoicing":"Invoicing",
+        "Filing":"Filing",
+        "Bank":"Bank",
+        "Repair":"Repair",
+        "Cases":"Cases",
+        "Devices":"Devices",
+        "System":"System",
+        "Settings":"Settings"
+
+
+    }
+}
